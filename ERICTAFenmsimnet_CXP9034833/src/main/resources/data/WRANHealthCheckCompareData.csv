@@ -1,0 +1,2 @@
+command,expectedExitCode
+/var/simnet/enm-simnet/scripts/WRANcompare.sh ,0

@@ -1,0 +1,3 @@
+command,expectedExitCode
+/var/simnet/enm-simnet/scripts/LRANcompare.sh ,0
+/var/simnet/enm-simnet/scripts/CBRS_Total_Check.sh ,0

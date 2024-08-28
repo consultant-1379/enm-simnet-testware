@@ -1,0 +1,2 @@
+command,expectedExitCode
+/var/simnet/HC/enm-ni-simdep/scripts/netsimHealthCheck.sh ,0

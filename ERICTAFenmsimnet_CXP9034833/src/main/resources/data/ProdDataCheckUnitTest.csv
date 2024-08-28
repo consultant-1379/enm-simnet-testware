@@ -1,0 +1,2 @@
+command,expectedExitCode
+/var/simnet/enm-simnet/scripts/UnitTests/bin/CheckProdData.sh, 0
